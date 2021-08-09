@@ -6,7 +6,7 @@
 
 ## Deskripsi
 
-BOT Telegram untuk mencatat penggunaan pesan oleh suatu user, bot: [@api_2020_bot](https://t.me/api_2020_bot)
+BOT Telegram untuk mencatat penggunaan pesan oleh suatu user. Cek [video penjelasan](https://youtu.be/hiGdfyCAS20)
 
 **NOTE:** Anda perlu memasukan token BOT TELEGRAM anda pada file 'TOKEN.txt' di folder private (private/TOKEN.txt)
 
